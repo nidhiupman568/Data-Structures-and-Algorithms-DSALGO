@@ -1,0 +1,45 @@
+ Here's the list of interview questions and their answers on arrays:
+
+**Question 1: What is an array?**  
+An array is a data structure consisting of a collection of elements, each identified by at least one array index or key.
+
+**Question 2: Can an array be resized at runtime?**  
+In some programming languages, arrays can be resized dynamically, while in others, such as C, the size is fixed.
+
+**Question 3: What is the time complexity for accessing an element in an array?**  
+The time complexity for accessing an element in an array is O(1), as it can be accessed directly using its index.
+
+**Question 4: What is the difference between an array and a linked list?**  
+An array is a static data structure, while a linked list is a dynamic data structure. Arrays have a fixed size, and elements are stored consecutively in memory, while linked lists can grow and do not require contiguous memory allocation.
+
+**Question 5: How would you find the smallest and largest element in an array?**  
+To find the smallest and largest elements in an array, one common approach is to iterate through the array and keep track of the smallest and largest elements encountered so far.
+
+**Question 6: Explain the concept of a multi-dimensional array.**  
+A multi-dimensional array is an array that contains other arrays. For example, a 2D array is an array of arrays, representing a matrix.
+
+**Question 7: What is an array index out of bounds exception?**  
+This error occurs when an attempt is made to access an element at an index that is outside the bounds of the array (e.g., negative index or greater than the array size).
+
+**Question 8: How would you reverse an array in-place in linear time and constant space?**  
+One approach is to use two pointers starting from the beginning and end of the array and swap the elements until they meet in the middle.
+
+**Question 9: Explain the concept of a jagged array.**  
+A jagged array is an array of arrays, where each sub-array could be of a different length.
+
+**Question 10: How can you find duplicate elements in an array?**  
+One way to find duplicate elements in an array is to use a hash set or to sort the array and then iterate through it to find consecutive duplicates.
+
+**Question 11: Discuss the advantages and disadvantages of using arrays.**  
+Advantages: Constant time access, simple implementation, and efficient storage for contiguous data.  
+Disadvantages: Fixed size, no support for dynamic growth, inefficient for insertions and deletions.
+
+**Question 12: Explain the concept of a sparse array.**  
+A sparse array is an array in which most of the elements have the same value. It can be represented using a data structure that only stores the non-default (non-zero) values.
+
+**Question 13: What is the difference between an array and a list?**  
+An array is a static data structure with a fixed size, while a list is a dynamic data structure that can grow and shrink during runtime.
+
+
+
+
