@@ -1,0 +1,64 @@
+Sure, here are the answers to all 15 questions:
+
+**Question 1: What is a Queue?**  
+Answer: A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle, where elements are added at the rear (enqueue) and removed from the front (dequeue).
+
+**Question 2: What are the different types of Queues?**  
+Answer:
+- Simple Queue
+- Circular Queue
+- Priority Queue
+- Double-Ended Queue (Deque)
+
+**Question 3: How is a Queue implemented in an array?**  
+Answer: An array can be used to implement a simple queue by maintaining two pointers: front and rear. Front points to the first element, and rear points to the next available position.
+
+**Question 4: How is a Queue implemented in a linked list?**  
+Answer: A linked list can be used to implement a queue by creating a node for each element and maintaining a head and tail pointer. Enqueueing adds a node to the tail, and dequeueing removes a node from the head.
+
+**Question 5: What is the time complexity of enqueue and dequeue operations in a Queue?**  
+Answer:
+- Enqueue: O(1)
+- Dequeue: O(1) for simple and circular queues, O(n) for priority queues
+
+**Question 6: What is the difference between a Queue and a Stack?**  
+Answer: A queue follows FIFO, while a stack follows Last-In-First-Out (LIFO).
+
+**Question 7: What are the applications of Queues?**  
+Answer:
+- Task scheduling
+- Message passing
+- Simulation of real-world scenarios
+
+**Question 8: How do you handle overflow and underflow conditions in a Queue?**  
+Answer:
+- Overflow: When the queue is full, throw an exception or return an error code.
+- Underflow: When the queue is empty, throw an exception or return a null value.
+
+**Question 9: What is a circular queue?**  
+Answer: A circular queue is a variation of a simple queue where the rear pointer wraps around to the beginning of the array after reaching the end.
+
+**Question 10: What is a priority queue?**  
+Answer: A priority queue is a queue where elements are assigned priorities and are dequeued based on their priorities.
+
+**Question 11: How is a priority queue implemented?**  
+Answer: Priority queues can be implemented using a binary heap or a self-balancing binary search tree.
+
+**Question 12: What is a double-ended queue (Deque)?**  
+Answer: A deque is a queue that allows insertions and deletions from both ends.
+
+**Question 13: How is a deque implemented?**  
+Answer: A deque can be implemented using two stacks or a circular buffer.
+
+**Question 14: What are the advantages of using a Queue?**  
+Answer:
+- Simple and efficient FIFO implementation
+- Easy to enqueue and dequeue elements
+- Supports multiple producers and consumers
+
+**Question 15: What are the disadvantages of using a Queue?**  
+Answer:
+- Limited access to elements (only from the front or rear)
+- Can be inefficient if elements need to be accessed in a non-sequential order
+
+These answers should give you a good understanding of queues and how they're used in various scenarios! Let me know if you need further clarification on any of these points.
