@@ -1,0 +1,52 @@
+Sure, here are all the questions and answers:
+
+Question 1: What is a graph?
+Answer: A graph is a data structure consisting of a set of vertices (nodes) and a set of edges that connect pairs of vertices. Graphs are used to represent relationships between objects, such as social networks, road networks, and computer networks.
+
+Question 2: Explain common graph representations.
+Answer:
+
+1. Adjacency matrix: A 2D array where rows and columns represent nodes, and values indicate the existence of an edge between them. Efficient for space usage, but can be slow for sparse graphs.
+2. Adjacency list: An array of linked lists or other data structures, where each list stores nodes connected to a specific node. Efficient for sparse graphs and adjacency queries, but may require more space.
+
+Question 3: Differentiate between directed and undirected graphs.
+Answer:
+
+Directed graphs: Edges have a direction, signifying one-way relationships.
+Undirected graphs: Edges have no direction, representing bidirectional relationships.
+
+Question 4: Describe common graph types.
+Answer:
+
+1. Simple graphs: Undirected, no loops or multiple edges between nodes.
+2. Complete graphs: Every node is connected to every other node.
+3. Trees: No cycles, a single root node connects to child nodes that don’t form cycles.
+4. Bipartite graphs: Can be divided into two disjoint sets where only nodes in different sets connect.
+
+Question 5: Discuss time and space complexity of basic graph operations.
+Answer:
+
+Traversal (DFS, BFS): O(V + E) for both time and space, where V is the number of nodes and E is the number of edges.
+Insertion: O(1) for constant-time operations in both adjacency list and matrix, although insertion into sparse matrices requiring reallocation might have amortized cost.
+Deletion: O(degree of the node) for adjacency lists, O(V^2) for adjacency matrices due to potential row/column shifts.
+
+Question 6: Explain Dijkstra’s algorithm and its applications.
+Answer: This algorithm finds the shortest path between two nodes in a weighted graph. It is used in route planning, network optimization, and other problems involving finding minimum-cost paths.
+
+Question 7: Compare DFS and BFS algorithms: strengths, weaknesses, and use cases.
+Answer:
+
+DFS: Explores deeply before exploring breadth-wise, efficient for finding connected components, good for detecting cycles.
+BFS: Explores breadth-wise, efficient for finding shortest paths in unweighted graphs, useful for level-order traversals.
+
+Question 8: Describe topological sorting: algorithm and applications.
+Answer:
+
+Topological sorting: Orders nodes such that edges always point from earlier nodes to later ones, required for tasks with dependencies.
+Application: Used in job scheduling, software dependency management, and circuit design.
+
+Question 9: Explain minimum spanning trees: algorithms and their significance.
+Answer:
+
+Minimum spanning trees: Finds a subset of edges that connects all nodes with minimum total weight while avoiding cycles.
+Significance: Used in network communication, clustering.
