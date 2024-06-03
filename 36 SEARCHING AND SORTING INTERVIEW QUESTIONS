@@ -1,0 +1,38 @@
+Certainly! Here are the most important 36 searching and sorting interview questions:
+
+1. Find first and last positions of an element in a sorted array
+2. Find a Fixed Point (Value equal to index) in a given array
+3. Search in a rotated sorted array
+4. Square root of an integer
+5. Maximum and minimum of an array using minimum number of comparisons
+6. Optimum location of point to minimize total distance
+7. Find the repeating and the missing
+8. Find majority element
+9. Searching in an array where adjacent differ by at most k
+10. Find a pair with a given difference
+11. Find four elements that sum to a given value
+12. Maximum sum such that no 2 elements are adjacent
+13. Count triplet with sum smaller than a given value
+14. Merge 2 sorted arrays
+15. Product array Puzzle
+16. Sort array according to count of set bits
+17. Minimum no. of swaps required to sort the array
+18. Bishu and Soldiers
+19. Rasta and Kheshtak
+20. Kth smallest number again
+21. Find pivot element in a sorted array
+22. K-th Element of Two Sorted Arrays
+23. Aggressive cows
+24. Book Allocation Problem
+25. Job Scheduling Algo
+26. Missing Number in AP
+27. Smallest number with atleast n trailing zeroes in factorial
+28. Painters Partition Problem
+29. ROTI-Prata SPOJ
+30. DoubleHelix SPOJ
+31. Subset Sums
+32. Find the inversion count
+33. Implement Merge-sort in-place
+34. Partitioning and Sorting Arrays with Many Repeated Entries
+35. Find the minimum number of swaps required to sort the array
+36. Find the maximum subarray sum
