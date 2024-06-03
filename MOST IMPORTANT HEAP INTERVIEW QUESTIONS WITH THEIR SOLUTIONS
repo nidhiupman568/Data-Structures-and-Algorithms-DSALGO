@@ -1,0 +1,46 @@
+Sure, here are all the questions and answers:
+
+Question 1: What is a heap data structure?
+Answer: A heap is a complete binary tree that satisfies the heap property: each node’s value is greater than or equal to its children’s values.
+
+Question 2: What are the two types of heaps?
+Answer: Max-heap and min-heap. In a max-heap, the root node has the maximum value, while in a min-heap, the root node has the minimum value.
+
+Question 3: What is the time complexity of inserting an element into a heap?
+Answer: O(log n), where n is the number of elements in the heap.
+
+Question 4: What is the time complexity of deleting an element from a heap?
+Answer: O(log n), where n is the number of elements in the heap.
+
+Question 5: What is the time complexity of finding the minimum or maximum element in a heap?
+Answer: O(1), as the root node always contains the minimum or maximum element.
+
+Question 6: What are the applications of heaps?
+Answer: Heap applications:
+
+1. Priority queues
+2. Sorting
+3. Finding the median
+4. Implementing Dijkstra’s algorithm
+5. Network routing
+6. Huffman coding
+
+Question 7: What is the difference between a heap and a binary search tree (BST)?
+Answer: A heap is a complete binary tree that satisfies the heap property, while a BST is a partially ordered binary tree that satisfies the BST property.
+
+Question 8: How do you convert a BST into a heap?
+Answer: By performing an in-order traversal of the BST and inserting the elements into a heap.
+
+Question 9: How do you merge two heaps?
+Answer: By creating a new heap and inserting the elements from both heaps into the new heap while maintaining the heap property.
+
+Question 10: What is the difference between a heap and a priority queue?
+Answer: A heap is a data structure, while a priority queue is an abstract data type that can be implemented using a heap.
+
+Question 11: What are the advantages of using a heap?
+Answer: Advantages of using a heap:
+
+1. Efficient insertion and extraction (O(log n))
+2. Can be used to implement priority queues
+3. Can be used for sorting (O(n log n))
+4. Useful for other applications, such as finding the median and implementing Dijkstra’s algorithm
