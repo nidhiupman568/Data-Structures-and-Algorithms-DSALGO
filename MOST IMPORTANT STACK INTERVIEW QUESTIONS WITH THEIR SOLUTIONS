@@ -1,0 +1,43 @@
+You've compiled a comprehensive list of commonly asked interview questions on stacks! Here are the answers:
+
+**Question 1: What is a stack?**  
+Answer: A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle.
+
+**Question 2: What are the operations performed on a stack?**  
+Answer: The common operations on a stack are push (insert an element), pop (remove the top element), and peek (view the top element).
+
+**Question 3: How is a stack implemented in an array?**  
+Answer: A stack can be implemented using an array by maintaining a pointer to the top of the stack.
+
+**Question 4: What is the time complexity of stack operations?**  
+Answer: Push, pop, and peek operations have a time complexity of O(1).
+
+**Question 5: What are the applications of a stack?**  
+Answer: Stacks are used in various applications, such as function calls, recursion, expression evaluation, and parsing.
+
+**Question 6: What is a stack overflow?**  
+Answer: A stack overflow occurs when the stack exceeds its allocated memory.
+
+**Question 7: What is a stack underflow?**  
+Answer: A stack underflow occurs when the stack is empty, and an attempt is made to pop an element.
+
+**Question 8: What is a postfix expression?**  
+Answer: A postfix expression is an expression where the operator follows the operands.
+
+**Question 9: How can a stack be used to evaluate a postfix expression?**  
+Answer: By pushing operands onto the stack and performing operations when operators are encountered.
+
+**Question 10: What is a prefix expression?**  
+Answer: A prefix expression is an expression where the operator precedes the operands.
+
+**Question 11: How can a stack be used to evaluate a prefix expression?**  
+Answer: By pushing operators onto the stack and performing operations when operands are encountered.
+
+**Question 12: How can a stack be used to check if a parenthesis expression is balanced?**  
+Answer: A stack can be used to check if a parenthesis expression is balanced by following these steps:
+- Push the opening parenthesis onto the stack.
+- When a closing parenthesis is encountered, pop the top element from the stack and check if it matches the closing parenthesis.
+- If the stack is empty at the end of the expression, then the expression is balanced.
+- If the stack is not empty, then the expression is not balanced.
+
+These answers should help you prepare for any questions related to stacks in your interviews! Let me know if you need further clarification.
