@@ -1,0 +1,40 @@
+Certainly! Here are the most important 38 stacks and queues interview questions:
+
+1. Implement Stack from Scratch
+2. Implement Queue from Scratch
+3. Implement 2 stacks in an array
+4. Find the middle element of a stack
+5. Check if the expression has valid or balanced parenthesis or not.
+6. Reverse a String using Stack
+7. Design a Stack that supports getMin() in O(1) time and O(1) extra space.
+8. Find the next Greater element
+9. The celebrity Problem
+10. Arithmetic Expression evaluation
+11. Evaluation of Postfix expression
+12. Implement a method to insert an element at its bottom without using any other data structure.
+13. Reverse a stack using recursion
+14. Sort a Stack using recursion
+15. Merge Overlapping Intervals
+16. Largest rectangular Area in Histogram
+17. Length of the Longest Valid Substring
+18. Expression contains redundant bracket or not
+19. Implement Stack using Queue
+20. Implement Stack using Deque
+21. Stack Permutations (Check if an array is a stack permutation of the other)
+22. Implement Queue using Stack
+23. Implement "n" queues in an array
+24. Implement a Circular queue
+25. LRU Cache Implementation
+26. Reverse a Queue using recursion
+27. Reverse the first "K" elements of a queue
+28. Interleave the first half of the queue with the second half
+29. Find the first circular tour that visits all Petrol Pumps
+30. Minimum time required to rot all oranges
+31. Distance of the nearest cell having 1 in a binary matrix
+32. First negative integer in every window of size "k"
+33. Check if all levels of two trees are anagrams or not.
+34. Sum of minimum and maximum elements of all subarrays of size "k".
+35. Minimum sum of squares of character counts in a given string after removing "k" characters.
+36. Queue-based approach for the first non-repeating character in a stream.
+37. Next Smaller Element
+38. Implement "N" stacks in an Array
