@@ -1,0 +1,37 @@
+Sure, here are the 35 most important binary tree interview questions:
+
+1. Level order traversal
+2. Height of a tree
+3. Diameter of a tree
+4. Mirror of a tree
+5. Inorder Traversal of a tree (both using recursion and Iteration)
+6. Preorder Traversal of a tree (both using recursion and Iteration)
+7. Postorder Traversal of a tree (both using recursion and Iteration)
+8. Left View of a tree
+9. Right View of Tree
+10. Top View of a tree
+11. Bottom View of a tree
+12. Zig-Zag traversal of a binary tree
+13. Check if a tree is balanced or not
+14. Diagonal Traversal of a Binary tree
+15. Boundary traversal of a Binary tree
+16. Convert Binary tree into Doubly Linked List
+17. Convert Binary tree into Sum tree
+18. Construct Binary tree from Inorder and preorder traversal
+19. Find minimum swaps required to convert a Binary tree into BST
+20. Check if Binary tree is Sum tree or not
+21. Check if all leaf nodes are at the same level or not
+22. Check if a Binary Tree contains duplicate subtrees of size 2 or more [IMP]
+23. Check if 2 trees are mirror or not
+24. Sum of Nodes on the Longest path from the root to the leaf node
+25. Check if the given graph is a tree or not. [IMP]
+26. Find Largest subtree sum in a tree
+27. Maximum Sum of nodes in Binary tree such that no two are adjacent
+28. Print all "K" Sum paths in a Binary tree
+29. Find LCA in a Binary tree
+30. Find the distance between 2 nodes in a Binary tree
+31. Kth Ancestor of a node in a Binary tree
+32. Find all Duplicate subtrees in a Binary tree [IMP]
+33. Tree Isomorphism Problem
+34. Convert Binary tree into Sum tree
+35. Find the distance between 2 nodes in a Binary tree
