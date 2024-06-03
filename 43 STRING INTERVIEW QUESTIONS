@@ -1,0 +1,45 @@
+Sure, here are the most important 43 string interview questions:
+
+1. Reverse a String
+2. Check whether a String is Palindrome or not
+3. Find Duplicate characters in a string
+4. Why strings are immutable in Java?
+5. Write a Code to check whether one string is a rotation of another
+6. Count and Say problem
+7. Write a program to find the longest Palindrome in a string
+8. Find Longest Recurring Subsequence in String
+9. Print all the permutations of the given string
+10. Word Wrap Problem
+11. EDIT Distance
+12. Find next greater number with same set of digits
+13. Balanced Parenthesis problem
+14. Word break Problem
+15. Rabin Karp Algorithm
+16. KMP Algorithm
+17. Convert a Sentence into its equivalent mobile numeric keypad sequence
+18. Minimum number of bracket reversals needed to make an expression balanced
+19. Count All Palindromic Subsequence in a given String
+20. Count of number of given string in 2D character array
+21. Search a Word in a 2D Grid of characters
+22. Boyer Moore Algorithm for Pattern Searching
+23. Converting Roman Numerals to Decimal
+24. Longest Common Prefix
+25. Number of flips to make binary string alternate
+26. Find the first repeated word in string
+27. Minimum number of swaps for bracket balancing
+28. Find the longest common subsequence between two strings
+29. Program to generate all possible valid IP addresses from given string
+30. Write a program to find the smallest window that contains all characters of string itself
+31. Rearrange characters in a string such that no two adjacent are same
+32. Minimum characters to be added at front to make string palindrome
+33. Given a sequence of words, print all anagrams together
+34. Find the smallest window in a string containing all characters of another string
+35. Recursively remove all adjacent duplicates
+36. String matching where one string contains wildcard characters
+37. Transform One String to Another using Minimum Number of Given Operation
+38. Check if two given strings are isomorphic to each other
+39. Recursively print all sentences that can be formed from list of word lists
+40. Write a Program to check whether a string is a valid shuffle of two strings or not
+41. Split the Binary string into two substring with equal 0’s and 1’s
+42. Minimum number of flips to make binary string alternate
+43. Minimum characters to be added at front to make string palindrome
