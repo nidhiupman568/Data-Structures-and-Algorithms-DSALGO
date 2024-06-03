@@ -1,0 +1,62 @@
+Here are the answers to the commonly asked interview questions on linked lists:
+
+**Question 1: What is a linked list?**  
+Answer: A linked list is a linear data structure consisting of a sequence of elements, where each element points to the next one, forming a chain.
+
+**Question 2: What are the different types of linked lists?**  
+Answer: Singly linked list, doubly linked list, and circular linked list.
+
+**Question 3: What are the advantages of Linked Lists?**  
+Answer: 
+- Dynamic memory allocation
+- Efficient insertion and deletion
+- Can represent complex data structures
+- Can be used to implement queues and stacks
+- Can be used for memory management and caching
+- Can be used for garbage collection
+
+**Question 4: What are the disadvantages of Linked Lists?**  
+Answer: 
+- Slow random access
+- More memory overhead
+- Difficult to debug
+- Not cache-friendly
+- Can suffer from memory leaks
+
+**Question 5: What is a cycle/loop in a Singly Linked List?**  
+Answer: A cycle, also known as a loop, in a singly-linked list occurs when a node in the list points back to a previous node, creating a circular path. This results in an infinite loop if traversing the list.
+
+**Question 6: What is the time complexity of Linked List operations?**  
+Answer: 
+- Insertion:
+  - At the beginning: O(1)
+  - At the end: O(n)
+  - At a specific position: O(n)
+- Deletion:
+  - At the beginning: O(1)
+  - At the end: O(n)
+  - At a specific position: O(n)
+- Search: O(n)
+- Traversal: O(n)
+
+**Question 7: How would you compare Dynamic Arrays Vs Linked Lists?**  
+Answer: 
+- Dynamic Array Advantages:
+  - Fast random access (O(1))
+  - Efficient for large data sets
+  - Contiguous memory allocation
+- Dynamic Array Disadvantages:
+  - Slow insertion and deletion in the middle (O(n))
+  - Fixed size, can lead to memory waste or reallocation
+- Linked Lists Advantages:
+  - Efficient insertion and deletion in the middle (O(1))
+  - Can grow and shrink dynamically
+  - Can represent complex data structures
+- Linked Lists Disadvantages:
+  - Slow random access (O(n))
+  - More memory overhead due to pointers
+  - Not cache-friendly
+
+Dynamic arrays are more efficient for random access and large data sets, while linked lists are more efficient for operations that involve insertion and deletion in the middle. Linked lists are also more flexible and can represent complex data structures.
+
+Let me know if you need further clarification on any of these questions!
